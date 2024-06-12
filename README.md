@@ -1,5 +1,11 @@
 # 👋 Merhaba, Ben [Turgut]!
 
+## 📫 Bana Ulaşın
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/turgutkaradag/)
+[![Personal Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=About.me&logoColor=white&link=https://turgutkaradag.com.tr/)](https://turgutkaradag.com.tr/)
+
+
 ## 🔧 Teknik Yetenekler
 
 ### Programlama Dilleri
@@ -30,7 +36,3 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karadagturgut&show_icons=true&theme=radical)
 
-## 📫 Bana Ulaşın
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/turgutkaradag/)
-[![Personal Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=About.me&logoColor=white&link=https://turgutkaradag.com.tr/)](https://turgutkaradag.com.tr/)
