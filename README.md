@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Turgut]!
+# 👋 Merhaba, Ben Turgut!
 
 ## 📫 Bana Ulaşın
 
